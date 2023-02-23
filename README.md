@@ -6,8 +6,11 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 
 The game has been made user friendly with proper use of android framework components which allows users to play the basic Tic-Tac-Toe game on their android phones and displays the status after the end of each game without interruption.
 
+# Video
 
-# Screenshots
+https://github.com/vaishnavigaikwad2810/Tic-Tac-Toe-Game/tree/master/video
+
+# App Screens
 
 Landing Page
 
