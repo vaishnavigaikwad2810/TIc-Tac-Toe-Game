@@ -8,7 +8,8 @@ The game has been made user friendly with proper use of android framework compon
 
 
 # Screenshots
-##Landing Page
+
+Landing Page
 
 ![App Screenshot](https://github.com/vaishnavigaikwad2810/Tic-Tac-Toe-Game/blob/master/Tic%20Tac%20Toe%20Game%20images/Landing%20Page.jpeg)
 
